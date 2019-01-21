@@ -1,0 +1,9 @@
+
+.thumbnail .description{
+   color: #7f7f77;
+}
+
+
+.thumbnail img {
+ max-height: 150px;
+}
