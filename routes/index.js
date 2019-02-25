@@ -33,5 +33,4 @@ router.post('/user/signup', function (req,res,next) {
 })
 
 
-
 module.exports = router;
