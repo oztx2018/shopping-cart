@@ -4,8 +4,6 @@ var mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost:27017/shopping', {useNewUrlParser: true })
 
-
-
 var products = [
     new Product({
         imagePath: 'https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/6045301_dtlet8152.jpg?itok=p8e70RY3',
